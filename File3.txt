@@ -1,1 +1,2 @@
 First line in File3.
+Second line in File3.
